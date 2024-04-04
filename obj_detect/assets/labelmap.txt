@@ -1,0 +1,114 @@
+???
+person
+bicycle
+car
+Fan
+Sofa
+Door
+Wall art
+motorcRycle
+airplane
+bus
+boat
+traffic light
+fire hydrant
+???
+stop sign
+parking meter
+bench
+bird
+cat
+dog
+backpack
+handbag
+tie
+suitcase
+sports ball
+tennis racket
+bottle
+wine glass
+cup
+fork
+knife
+spoon
+bowl
+banana
+apple
+sandwich
+orange
+broccoli
+carrot
+hot dog
+pizza
+donut
+cake
+chair
+bed
+dining table
+toilet
+tv
+laptop
+mouse
+remote
+keyboard
+cell phone
+microwave
+oven
+Laptop
+toaster
+sink
+refrigerator
+???
+book
+clock
+vase
+hair drier
+toothbrush
+Sofa
+Dining table
+Bed
+Refrigerator
+Microwave
+Oven
+Television
+Chair
+Coffee table
+Washing machine
+Wardrobe
+Mirror
+Lamp
+bulb
+Clock
+Bookshelf
+Computer
+Laptop
+Vacuum cleaner
+Iron
+Ironing board
+Blender
+Toaster
+Kettle
+Dining chairs
+Curtains
+Rug
+Air conditioner
+Heater
+Fan
+Shower
+Toilet
+Sink
+Towel rack
+Toothbrush holder
+Soap dispenser
+Dish rack
+Trash can
+Broom
+Mop
+Bucket
+Plant
+Picture frames
+Candles
+Side table
+Cutlery set
+Pots and pans
+Dishes and plates
